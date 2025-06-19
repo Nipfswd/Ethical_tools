@@ -19,4 +19,4 @@ A fast, multithreaded port scanner built in Python with support for custom plugi
 ## Usage
 
 ```bash
-python scanner.py 192.168.1.0/24 --start-port 20 --end-port 1024 --threads 200
+python port_scanner.py 192.168.1.0/24 --start-port 20 --end-port 1024 --threads 200
